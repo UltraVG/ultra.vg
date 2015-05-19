@@ -7,17 +7,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Ultra
+tagline:          High-Performance UI Solution
 url:              http://ultravg.github.io/ultra.vg/
 paginate:         1
 baseurl:          http://ultravg.github.io/ultra.vg/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Adam Simmons
+  url:            https://twitter.com/adamjsimmons
+  email:          hi@adamjsimmons
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/UltraVG/ultra.vg
